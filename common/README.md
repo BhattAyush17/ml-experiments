@@ -1,2 +1,2 @@
 Shared utilities only.
-No model logic should live here.
+No model logic exists here.
