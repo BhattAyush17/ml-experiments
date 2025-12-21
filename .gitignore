@@ -1,0 +1,6 @@
+.env
+*.pth
+logs/
+__pycache__/
+checkpoints/
+run_*.sh
