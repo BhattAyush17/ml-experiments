@@ -4,3 +4,4 @@ logs/
 __pycache__/
 checkpoints/
 run_*.shvenv/
+venv/
